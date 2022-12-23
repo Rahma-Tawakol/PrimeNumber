@@ -1,0 +1,6 @@
+C:\Users\amjed\source\repos\prime number\prime number\bin\Debug\prime number.exe
+C:\Users\amjed\source\repos\prime number\prime number\bin\Debug\prime number.pdb
+C:\Users\amjed\source\repos\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+C:\Users\amjed\source\repos\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+C:\Users\amjed\source\repos\prime number\prime number\obj\Debug\prime number.exe
+C:\Users\amjed\source\repos\prime number\prime number\obj\Debug\prime number.pdb
